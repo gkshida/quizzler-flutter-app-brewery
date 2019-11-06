@@ -21,7 +21,7 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 - [ ] Using class constructors.
 - [ ] Extracting Widgets to refactor your code.
 - [ ] private and public modifiers in Dart.
-- [ ] How to use Dart lists.
+- [x] How to use Dart lists.
 - [ ] The difference between var, const and final.
 
 ## Code Snippet for Project
