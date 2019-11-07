@@ -20,7 +20,7 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 - [x] Dart classes and objects.
 - [x] Using class constructors.
 - [ ] Extracting Widgets to refactor your code.
-- [ ] private and public modifiers in Dart.
+- [x] private and public modifiers in Dart.
 - [x] How to use Dart lists.
 - [ ] The difference between var, const and final.
 
