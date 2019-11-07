@@ -38,11 +38,11 @@ class QuizBrain {
   }
 
   String getQuestionText() {
-    return _questionBank[_questionNumber].questionText;
+    return _questionBank[_questionNumber].getQuestionText();
   }
 
   bool getQuestionAnswer() {
-    return _questionBank[_questionNumber].questionAnswer;
+    return _questionBank[_questionNumber].getQuestionAnswer();
   }
 
   bool isFinished() {
